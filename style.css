@@ -1,0 +1,38 @@
+body, p {
+	background-color: #ddc3e3;
+	color: #4f3659;
+	font: "Times New Roman";
+	font-size: 20px;
+}
+h1 {
+	color: #4f3659;
+	font: "Times New Roman";
+}
+topnav {
+   background-color: #white;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: center;
+   color: #4f3659;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 20px;
+}
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #4f3659;
+   color: whitesmoke;
+}
+colorBand {
+	background: #C4DACF;
+	height: 120px;
+	width: 100%;
+}
